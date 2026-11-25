@@ -1,0 +1,11 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Search a city to see its current temperature and daily forecast.",
+  "private": true,
+  "license": "MIT",
+  "author": "Seetharam Padiyala",
+  "scripts": {
+    "start": "python3 -m http.server 8000"
+  }
+}
